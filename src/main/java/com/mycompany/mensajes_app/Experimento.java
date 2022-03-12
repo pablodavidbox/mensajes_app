@@ -9,6 +9,6 @@ package com.mycompany.mensajes_app;
  *
  * @author Pablo David Schvager
  */
-public class Pepe {
+public class Experimento {
     
 }
